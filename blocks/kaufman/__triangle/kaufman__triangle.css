@@ -8,3 +8,7 @@
   z-index: -1;
   background-size: contain;
 }
+
+.kaufman__triangle {
+  animation: rotation 20s linear infinite;
+}

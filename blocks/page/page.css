@@ -4,4 +4,6 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: "Helvetica Neue", Arial, sans-serif;
+  max-width: 100%; 
+  overflow-x: hidden; 
 }
